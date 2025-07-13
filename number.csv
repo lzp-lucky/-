@@ -1,0 +1,13 @@
+,Up,Down
+bacteria:CR-hv vs CS-hv,124,154
+bacteria:CR-hv vs CR-c,24,12
+bacteria:CS-hv vs CS-c,139,157
+bacteria:CR-c vs CS-c,51,59
+bacteria:ST11-K47 vs ST11-k64,89,52
+bacteria:ST23-K1 vs ST65-K2,130,69
+omv:CR-hv vs CS-hv,80,1
+omv:CR-hv vs CR-c,120,19
+omv:CS-hv vs CS-c,0,3
+omv:CR-c vs CS-c,2,0
+omv:ST11-K47 vs ST11-k64,2,0
+omv:ST23-K1 vs ST65-K2,89,16
